@@ -1,0 +1,12 @@
+# Maven
+/target/
+
+# Eclipse
+.settings
+.classpath
+.project
+.externalToolBuilders
+
+# IntelliJ
+.idea
+/bin/
